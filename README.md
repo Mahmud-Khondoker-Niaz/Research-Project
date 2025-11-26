@@ -10,7 +10,7 @@ A unified pipeline was developed with preprocessing (cleaning, outlier removal, 
 
 
 ## 📄 Paper
-[Download PDF](Paper/Loan_IEEE_ICCIT(2).pdf)
+[Download PDF](Paper/Loan_IEEE_ICCIT%20(2).pdf)
 
 
 ### Key Features
