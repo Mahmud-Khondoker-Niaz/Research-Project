@@ -8,6 +8,11 @@ The study evaluates 15 machine learning, deep learning, and ensemble models on a
 The goal of this research is to improve the accuracy, fairness, and interpretability of automated loan approval systems.  
 A unified pipeline was developed with preprocessing (cleaning, outlier removal, normalization, log transformation, SMOTE) and evaluation of ML + DL + Ensemble models.
 
+
+## 📄 Paper
+[Download PDF](paper/Loan_IEEE_ICCIT%20(2).pdf)
+
+
 ### Key Features
 - Dataset: 5,000 rows, 13 selected attributes  
 - Models tested: 15  
